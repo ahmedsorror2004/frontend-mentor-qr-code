@@ -18,4 +18,6 @@ i've just used those tools and technologies to accomplish this challenge or proj
 the challenge is easier than expected the real challenge for me is dealing with github for the first time
 so i'm begining to learn how to use,
 
+[View Live Site](https://qrcode-application.netlify.app/)
+
 thx <3
